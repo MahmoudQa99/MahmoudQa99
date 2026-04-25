@@ -1,21 +1,23 @@
-## Hi there 👋
-Software-Testing-Portfolio
+# My_Portfolio 
 
-│── Manual Testing
-│     ├── Test Cases (Google Sheet link)
-│     ├── Bug Reports (PDF / Docs)
-│     ├── Screenshots
+Software Tester | QA Engineer 
 
-│── Bug Tracking
-│     ├── Trello Board Link
-│     ├── Jira Screenshots
+---
 
-│── API Testing
-│     ├── Postman Collections
-│     ├── Test Cases
+## Skills
+Manual Testing · API Testing · Bug Reporting · Test Cases . Automation
+Tools: Jira · Trello · Postman · Agile
 
-│── Mobile Testing
-│     ├── Test Scenarios
-│     ├── Bugs
+---
 
-│── README.md  ← أهم ملف
+## Projects
+
+| Project | Type | Tools | Link |
+|---------|------|-------|------|
+| E-commerce Web App | Manual Testing | Trello, Google Sheet | [View →](./01_Web-App-Testing) |
+| REST API Testing | API Testing | Postman | [Coming soon] |
+
+---
+
+## Dev Background
+React · Next.js · JavaScript · HTML/CSS

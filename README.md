@@ -3,6 +3,9 @@
 Software Tester | QA Engineer 
 
 ---
+##  About Me
+Software Tester with a technical background in software development, including frontend development and strong computer science fundamentals. Experienced in manual testing, bug reporting, and exploratory testing, with hands-on practice in API testing (Postman) and SQL for data validation. Strong problem-solving skills with knowledge of OOP and Data Structures, currently learning test automation and seeking a QA role.
+---
 
 ## Skills
 

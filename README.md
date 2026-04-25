@@ -1,16 +1,21 @@
 ## Hi there 👋
+Software-Testing-Portfolio
 
-<!--
-**MahmoudQa99/MahmoudQa99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+│── Manual Testing
+│     ├── Test Cases (Google Sheet link)
+│     ├── Bug Reports (PDF / Docs)
+│     ├── Screenshots
 
-Here are some ideas to get you started:
+│── Bug Tracking
+│     ├── Trello Board Link
+│     ├── Jira Screenshots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+│── API Testing
+│     ├── Postman Collections
+│     ├── Test Cases
+
+│── Mobile Testing
+│     ├── Test Scenarios
+│     ├── Bugs
+
+│── README.md  ← أهم ملف
